@@ -1,8 +1,17 @@
-## internship ##
-## first day internship
-# day #
+#10 day internship
+>day-1
+- github
+- acc making in github
+- made .md file 
+> uese of symbol
+1. using # for big size
+2. ling
+3. linking link
+4. code
 ```
-# include
-
+f=int(input("enter a number")
+h=int("input("enter a number")
+sum=f+h
+print("sum=",sum)
 ```
 [lukosevv/vvl](https://github.com/lukosevv/vvl)

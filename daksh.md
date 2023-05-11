@@ -16,6 +16,15 @@ print("sum=",sum)
 ```
 [lukosevv/vvl](https://github.com/lukosevv/vvl)
 
+
+#DAY 2
+
+![no loding](circut 2.png)
+![no loading]
+
+
+
+
 day 3
 
 [thinker this](https://www.tinkercad.com/things/8uIxXHKhopy-amazing-stantia/editel?tenant=circuits)

@@ -15,3 +15,5 @@ sum=f+h
 print("sum=",sum)
 ```
 [lukosevv/vvl](https://github.com/lukosevv/vvl)
+day 3
+[thinker this](https://www.tinkercad.com/things/8uIxXHKhopy-amazing-stantia/editel?tenant=circuits)

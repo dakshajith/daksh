@@ -39,3 +39,19 @@ print("sum=",sum)
 [thinker this](https://www.tinkercad.com/things/adxwkp20WCi-smooth-elzing/editel?tenant=circuits)
 
 [thinker this](https://www.tinkercad.com/things/bNyTkXKGWgF-grand-bigery-lappi/editel?tenant=circuits)
+
+CODE
+// C++ code
+//
+void setup()
+{
+  pinMode(LED_BUILTIN, OUTPUT);
+}
+
+void loop()
+{
+  digitalWrite(LED_BUILTIN, HIGH);
+  delay(1000); // Wait for 1000 millisecond(s)
+  digitalWrite(LED_BUILTIN, LOW);
+  delay(1000); // Wait for 1000 millisecond(s)
+}

@@ -22,7 +22,7 @@ print("sum=",sum)
 
 
 
-![n0 loding](circut 2.png)
+![alt n0 loding](https://github.com/dakshajith/daksh/blob/main/circuit.png)
 
 
 ![alt noloding](circuit.png)

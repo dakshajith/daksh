@@ -1,4 +1,4 @@
-#10 day internship
+(#10 day internship
 >day-1
 - github
 - acc making in github
@@ -19,13 +19,21 @@ print("sum=",sum)
 
 #DAY 2
 
+
+
+
+
 ![no loding](circut 2.png)
-![no loading]
+
+![no loading](circuit.png)
 
 
 
 
 day 3
+
+
+
 
 [thinker this](https://www.tinkercad.com/things/8uIxXHKhopy-amazing-stantia/editel?tenant=circuits)
 

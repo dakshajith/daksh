@@ -30,7 +30,7 @@ print("sum=",sum)
 
 
 
-day 3
+#DAY 3
 
 
 

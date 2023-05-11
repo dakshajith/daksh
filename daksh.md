@@ -22,7 +22,6 @@ print("sum=",sum)
 
 
 
-
 ![n0 loding](circut 2.png)
 
 ![noloding](circuit.png)

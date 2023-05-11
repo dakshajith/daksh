@@ -35,7 +35,7 @@ print("sum=",sum)
 
 
 
-![alt thinker this](https://www.tinkercad.com/things/8uIxXHKhopy-amazing-stantia/editel?tenant=circuits)
+!thinker this](https://www.tinkercad.com/things/8uIxXHKhopy-amazing-stantia/editel?tenant=circuits)
 
 [thinker this](https://www.tinkercad.com/things/adxwkp20WCi-smooth-elzing/editel?tenant=circuits)
 

@@ -23,7 +23,7 @@ print("sum=",sum)
 
 
 
-![no loding](circut 2.png)
+![n0 loding](circut 2.png)
 
 ![no loading](circuit.png)
 

@@ -19,4 +19,7 @@ print("sum=",sum)
 day 3
 
 [thinker this](https://www.tinkercad.com/things/8uIxXHKhopy-amazing-stantia/editel?tenant=circuits)
+
 [thinker this](https://www.tinkercad.com/things/adxwkp20WCi-smooth-elzing/editel?tenant=circuits)
+
+[thinker this(https://www.tinkercad.com/things/bNyTkXKGWgF-grand-bigery-lappi/editel?tenant=circuits)

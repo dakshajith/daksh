@@ -62,6 +62,11 @@ void loop()
 DAY 5
 
 ASSIGNMENT 1
+
+
+7 segments 
+
+
 https://www.tinkercad.com/things/hARFVBEgiQh-copy-of-7-segament-display-using-arduino-board/editel?tenant=circuits
 
 CODE
@@ -158,4 +163,26 @@ void loop()
   delay(1000);
   
   delay(1000); // Wait for 1000 millisecond(s)
+}
+
+
+program 1
+
+
+delay(1000);//waight for mellion seacond(s)
+
+https://www.tinkercad.com/things/gcpjhDdJdec-grand-maimu-fyyran/editel
+
+code 
+
+const int potpin = A0;
+  
+  void setup() {
+    Serial.begin(9600);
+}
+
+void loop() {
+  int potValue = analogRead(potpin);
+  Serial.println(potValue);
+  delay(100);
 }

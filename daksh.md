@@ -186,3 +186,111 @@ void loop() {
   Serial.println(potValue);
   delay(100);
 }
+
+DAY 8
+
+https://www.tinkercad.com/things/hARFVBEgiQh-copy-of-7-segament-display-using-arduino-board/editel
+
+CODE
+
+const int potpin = A0;
+  
+  void setup() 
+  {
+    Serial.begin(9600);
+
+
+  pinMode(13, OUTPUT);//a
+  pinMode(12,OUTPUT);//b
+  pinMode(11,OUTPUT);//c
+  pinMode(10,OUTPUT);//d
+  pinMode(9,OUTPUT);//e
+  pinMode(8,OUTPUT);//f
+  pinMode(7,OUTPUT);//g
+
+
+  }
+
+ 
+void loop()
+{
+  int potValue = analogRead(potpin);
+  Serial.println(potValue);
+  delay(0.100);digitalWrite(13, LOW);
+  digitalWrite(12,LOW);
+  digitalWrite(11,LOW);
+  digitalWrite(10,LOW);
+  digitalWrite(9,LOW);
+  digitalWrite(8,LOW);
+  digitalWrite(7,HIGH);
+  delay(0.100); // Wait for 0-2004 millisecond(s
+  digitalWrite(11,LOW);
+  digitalWrite(12,LOW);
+  digitalWrite(10,HIGH);
+  digitalWrite(13,HIGH);
+  digitalWrite(9,HIGH);
+  digitalWrite(8,HIGH);
+  digitalWrite(7,HIGH);
+  delay(0.100);
+  digitalWrite(13,LOW);
+  digitalWrite(12,LOW);
+  digitalWrite(7,LOW);
+  digitalWrite(9,LOW);
+  digitalWrite(10,LOW);
+  digitalWrite(8,HIGH);
+  digitalWrite(11,HIGH);
+  delay(0.100);
+  digitalWrite(13,LOW);
+  digitalWrite(12,LOW);
+  digitalWrite(11,LOW);
+  digitalWrite(10,LOW);
+  digitalWrite(7,LOW);
+  digitalWrite(9,HIGH);
+  digitalWrite(8,HIGH);
+  delay(0.100);
+  digitalWrite(8,LOW);
+  digitalWrite(7,LOW);
+  digitalWrite(12,LOW);
+  digitalWrite(11,LOW);
+  digitalWrite(13,HIGH);
+  digitalWrite(9,HIGH);
+  digitalWrite(10,HIGH);
+  delay(0.100);
+  digitalWrite(13,LOW);
+  digitalWrite(8,LOW);
+  digitalWrite(7,LOW);
+  digitalWrite(11,LOW);
+  digitalWrite(10,LOW);
+  digitalWrite(9,HIGH);
+  digitalWrite(12,HIGH);
+  delay(0.100);
+  digitalWrite(13,LOW);
+  digitalWrite(8,LOW);
+  digitalWrite(7,LOW);
+  digitalWrite(11,LOW);
+  digitalWrite(10,LOW);
+  digitalWrite(9,LOW);
+  digitalWrite(12,HIGH);
+  delay(0.100);
+  digitalWrite(13,LOW);
+  digitalWrite(12,LOW);
+  digitalWrite(11,LOW);
+  digitalWrite(10,HIGH);
+  digitalWrite(9,HIGH);
+  digitalWrite(8,HIGH);
+  digitalWrite(7,HIGH);
+  delay(0.100);
+  digitalWrite(13,LOW);
+  digitalWrite(12,LOW);
+  digitalWrite(11,LOW);
+  digitalWrite(10,LOW);
+  digitalWrite(9,LOW);
+  digitalWrite(8,LOW);
+  digitalWrite(7,LOW);
+  delay(0.100);
+  digitalWrite(10,HIGH);
+  digitalWrite(9,HIGH);
+  delay(0.100);
+  
+  delay(0.100); // Wait for 0-2004 millisecond(s)
+}
